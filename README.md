@@ -1,6 +1,6 @@
--caffeine
--climbing
--video games
+-caffeine \n
+-climbing \n
+-video games \n
 
 ---
 
