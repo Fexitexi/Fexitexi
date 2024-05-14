@@ -1,7 +1,11 @@
+-caffeine
+-climbing
+-video games
+
 ---
+
 > Well, at least it's running
 
-— Me
 <!--
 **Fexitexi/Fexitexi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
